@@ -1,3 +1,4 @@
+
 # Estrutura de Pastas do Projeto – Banco de Dados Escola
 
 Este projeto foi organizado com uma estrutura de pastas pensada para facilitar administração, evolução e reutilização do código em múltiplos SGBDs.
@@ -5,7 +6,6 @@ Este projeto foi organizado com uma estrutura de pastas pensada para facilitar a
 ---
 
 ## 📁 Visão Geral da Estrutura
-
 escola-db/
 ├── ddl/
 │ ├── CREATE_TABLE.sql # Criação das tabelas e tipos
@@ -34,3 +34,4 @@ escola-db/
 ---
 
 **Criado por Erick Veronezi** — Projeto acadêmico para estudos com SQL e outros SGBDs.
+```
