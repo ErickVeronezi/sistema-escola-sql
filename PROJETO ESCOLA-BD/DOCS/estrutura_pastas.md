@@ -4,7 +4,7 @@
 Este projeto foi organizado com uma estrutura de pastas pensada para facilitar administração, evolução e reutilização do código em múltiplos SGBDs.
 
 ---
-
+```plaintext
 ## 📁 Visão Geral da Estrutura
 escola-db/
 ├── ddl/
@@ -21,7 +21,7 @@ escola-db/
 └── doc/
 ├── README.md # Descrição geral do projeto
 └── estrutura_pastas.md # (este arquivo)
-
+```
 
 ---
 
